@@ -11,7 +11,7 @@ HTML_PAGE = """
     <title>Student Feedback</title>
 </head>
 <body>
-    <h2>Student Feedback Form</h2>
+    <h2>Student Feedback Form 2026 </h2>
     <form method="POST">
         Name: <input type="text" name="name" required><br><br>
         Feedback: <input type="text" name="feedback" required><br><br>
